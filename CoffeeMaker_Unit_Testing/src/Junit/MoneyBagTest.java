@@ -69,6 +69,7 @@ public class MoneyBagTest {
 		Money expected = new Money(12, "CHF");
 		assertEquals(expected, f12CHF.add(new Money(0, "CHF")));
 	}
+	//gngfbgg
 	//5544554
 //kjuyhghyghhg
 	//575888854
