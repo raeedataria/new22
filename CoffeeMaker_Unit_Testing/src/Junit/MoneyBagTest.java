@@ -69,8 +69,8 @@ public class MoneyBagTest {
 		Money expected = new Money(12, "CHF");
 		assertEquals(expected, f12CHF.add(new Money(0, "CHF")));
 	}
-
-	
+//kjuyhghyghhg
+	//575888854
 	// --------Contains tests----------
 	
 	// Test to check if	contains in bag 
