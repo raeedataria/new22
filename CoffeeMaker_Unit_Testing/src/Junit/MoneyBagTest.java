@@ -21,7 +21,7 @@ public class MoneyBagTest {
 	// setting up all the variable that we are going to use.
 	@Before
 	public void setUp() throws Exception {
-		f12CHF = new Money(12, "CHF");
+		f12CHF = new Money(12, "CHF")  ;
 		f14CHF = new Money(14, "CHF");
 		f7USD = new Money(7, "USD");
 		f21USD = new Money(21, "USD");
